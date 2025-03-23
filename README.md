@@ -1,4 +1,4 @@
-# 🚗 Randomized Car Generation Simulator (Pygame)
+# 🚗 Randomized Car Generation (Pygame)
 
 This project simulates randomized car generation and movement using **Pygame**, a popular Python library for game development and simple simulations.
 
